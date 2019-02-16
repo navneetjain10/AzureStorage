@@ -1,0 +1,306 @@
+C:\projects\azurefileupload\azurefileupload\bin\ApplicationInsights.config
+C:\projects\azurefileupload\azurefileupload\bin\azurefileupload.dll.config
+C:\projects\azurefileupload\azurefileupload\bin\azurefileupload.dll
+C:\projects\azurefileupload\azurefileupload\bin\azurefileupload.pdb
+C:\projects\azurefileupload\azurefileupload\bin\roslyn\csc.exe
+C:\projects\azurefileupload\azurefileupload\bin\roslyn\csc.exe.config
+C:\projects\azurefileupload\azurefileupload\bin\roslyn\csc.rsp
+C:\projects\azurefileupload\azurefileupload\bin\roslyn\csi.exe
+C:\projects\azurefileupload\azurefileupload\bin\roslyn\csi.exe.config
+C:\projects\azurefileupload\azurefileupload\bin\roslyn\csi.rsp
+C:\projects\azurefileupload\azurefileupload\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\projects\azurefileupload\azurefileupload\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\projects\azurefileupload\azurefileupload\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\projects\azurefileupload\azurefileupload\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\projects\azurefileupload\azurefileupload\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\projects\azurefileupload\azurefileupload\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\projects\azurefileupload\azurefileupload\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\projects\azurefileupload\azurefileupload\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\projects\azurefileupload\azurefileupload\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\projects\azurefileupload\azurefileupload\bin\roslyn\Microsoft.Managed.Core.targets
+C:\projects\azurefileupload\azurefileupload\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\projects\azurefileupload\azurefileupload\bin\roslyn\System.AppContext.dll
+C:\projects\azurefileupload\azurefileupload\bin\roslyn\System.Collections.Immutable.dll
+C:\projects\azurefileupload\azurefileupload\bin\roslyn\System.Console.dll
+C:\projects\azurefileupload\azurefileupload\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\projects\azurefileupload\azurefileupload\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\projects\azurefileupload\azurefileupload\bin\roslyn\System.IO.Compression.dll
+C:\projects\azurefileupload\azurefileupload\bin\roslyn\System.IO.FileSystem.dll
+C:\projects\azurefileupload\azurefileupload\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\projects\azurefileupload\azurefileupload\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\projects\azurefileupload\azurefileupload\bin\roslyn\System.IO.Pipes.dll
+C:\projects\azurefileupload\azurefileupload\bin\roslyn\System.Reflection.Metadata.dll
+C:\projects\azurefileupload\azurefileupload\bin\roslyn\System.Security.AccessControl.dll
+C:\projects\azurefileupload\azurefileupload\bin\roslyn\System.Security.Claims.dll
+C:\projects\azurefileupload\azurefileupload\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\projects\azurefileupload\azurefileupload\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\projects\azurefileupload\azurefileupload\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\projects\azurefileupload\azurefileupload\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\projects\azurefileupload\azurefileupload\bin\roslyn\System.Security.Principal.Windows.dll
+C:\projects\azurefileupload\azurefileupload\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\projects\azurefileupload\azurefileupload\bin\roslyn\System.ValueTuple.dll
+C:\projects\azurefileupload\azurefileupload\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\projects\azurefileupload\azurefileupload\bin\roslyn\System.Xml.XmlDocument.dll
+C:\projects\azurefileupload\azurefileupload\bin\roslyn\System.Xml.XPath.dll
+C:\projects\azurefileupload\azurefileupload\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\projects\azurefileupload\azurefileupload\bin\roslyn\vbc.exe
+C:\projects\azurefileupload\azurefileupload\bin\roslyn\vbc.exe.config
+C:\projects\azurefileupload\azurefileupload\bin\roslyn\vbc.rsp
+C:\projects\azurefileupload\azurefileupload\bin\roslyn\VBCSCompiler.exe
+C:\projects\azurefileupload\azurefileupload\bin\roslyn\VBCSCompiler.exe.config
+C:\projects\azurefileupload\azurefileupload\bin\Antlr3.Runtime.dll
+C:\projects\azurefileupload\azurefileupload\bin\Microsoft.AI.Agent.Intercept.dll
+C:\projects\azurefileupload\azurefileupload\bin\Microsoft.AI.DependencyCollector.dll
+C:\projects\azurefileupload\azurefileupload\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\projects\azurefileupload\azurefileupload\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\projects\azurefileupload\azurefileupload\bin\Microsoft.AI.Web.dll
+C:\projects\azurefileupload\azurefileupload\bin\Microsoft.AI.WindowsServer.dll
+C:\projects\azurefileupload\azurefileupload\bin\Microsoft.ApplicationInsights.dll
+C:\projects\azurefileupload\azurefileupload\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\projects\azurefileupload\azurefileupload\bin\Microsoft.Azure.KeyVault.Core.dll
+C:\projects\azurefileupload\azurefileupload\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\projects\azurefileupload\azurefileupload\bin\Microsoft.Web.Infrastructure.dll
+C:\projects\azurefileupload\azurefileupload\bin\Microsoft.WindowsAzure.Storage.dll
+C:\projects\azurefileupload\azurefileupload\bin\Newtonsoft.Json.dll
+C:\projects\azurefileupload\azurefileupload\bin\System.Diagnostics.DiagnosticSource.dll
+C:\projects\azurefileupload\azurefileupload\bin\System.Net.Http.Formatting.dll
+C:\projects\azurefileupload\azurefileupload\bin\System.Web.Helpers.dll
+C:\projects\azurefileupload\azurefileupload\bin\System.Web.Http.dll
+C:\projects\azurefileupload\azurefileupload\bin\System.Web.Http.WebHost.dll
+C:\projects\azurefileupload\azurefileupload\bin\System.Web.Mvc.dll
+C:\projects\azurefileupload\azurefileupload\bin\System.Web.Optimization.dll
+C:\projects\azurefileupload\azurefileupload\bin\System.Web.Razor.dll
+C:\projects\azurefileupload\azurefileupload\bin\System.Web.WebPages.Deployment.dll
+C:\projects\azurefileupload\azurefileupload\bin\System.Web.WebPages.dll
+C:\projects\azurefileupload\azurefileupload\bin\System.Web.WebPages.Razor.dll
+C:\projects\azurefileupload\azurefileupload\bin\WebGrease.dll
+C:\projects\azurefileupload\azurefileupload\bin\Microsoft.Azure.KeyVault.Core.xml
+C:\projects\azurefileupload\azurefileupload\bin\Microsoft.WindowsAzure.Storage.pdb
+C:\projects\azurefileupload\azurefileupload\bin\Microsoft.WindowsAzure.Storage.xml
+C:\projects\azurefileupload\azurefileupload\bin\Newtonsoft.Json.xml
+C:\projects\azurefileupload\azurefileupload\bin\System.Net.Http.Formatting.xml
+C:\projects\azurefileupload\azurefileupload\bin\System.Web.Helpers.xml
+C:\projects\azurefileupload\azurefileupload\bin\System.Web.Http.xml
+C:\projects\azurefileupload\azurefileupload\bin\System.Web.Http.WebHost.xml
+C:\projects\azurefileupload\azurefileupload\bin\System.Web.Mvc.xml
+C:\projects\azurefileupload\azurefileupload\bin\System.Web.Optimization.xml
+C:\projects\azurefileupload\azurefileupload\bin\System.Web.Razor.xml
+C:\projects\azurefileupload\azurefileupload\bin\System.Web.WebPages.xml
+C:\projects\azurefileupload\azurefileupload\bin\System.Web.WebPages.Deployment.xml
+C:\projects\azurefileupload\azurefileupload\bin\System.Web.WebPages.Razor.xml
+C:\projects\azurefileupload\azurefileupload\bin\Antlr3.Runtime.pdb
+C:\projects\azurefileupload\azurefileupload\bin\System.Diagnostics.DiagnosticSource.xml
+C:\projects\azurefileupload\azurefileupload\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\projects\azurefileupload\azurefileupload\bin\Microsoft.AI.DependencyCollector.xml
+C:\projects\azurefileupload\azurefileupload\bin\Microsoft.AI.WindowsServer.xml
+C:\projects\azurefileupload\azurefileupload\bin\Microsoft.AI.Web.xml
+C:\projects\azurefileupload\azurefileupload\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\projects\azurefileupload\azurefileupload\obj\Debug\azurefileupload.csprojAssemblyReference.cache
+C:\projects\azurefileupload\azurefileupload\obj\Debug\azurefileupload.csproj.CoreCompileInputs.cache
+C:\projects\azurefileupload\azurefileupload\obj\Debug\azurefileupload.csproj.CopyComplete
+C:\projects\azurefileupload\azurefileupload\obj\Debug\azurefileupload.dll
+C:\projects\azurefileupload\azurefileupload\obj\Debug\azurefileupload.pdb
+C:\Project\Azure\StorageAPI\azureblobupload-master\azureblobupload-master\azurefileupload\bin\ApplicationInsights.config
+C:\Project\Azure\StorageAPI\azureblobupload-master\azureblobupload-master\azurefileupload\bin\azurefileupload.dll.config
+C:\Project\Azure\StorageAPI\azureblobupload-master\azureblobupload-master\azurefileupload\bin\azurefileupload.dll
+C:\Project\Azure\StorageAPI\azureblobupload-master\azureblobupload-master\azurefileupload\bin\azurefileupload.pdb
+C:\Project\Azure\StorageAPI\azureblobupload-master\azureblobupload-master\azurefileupload\bin\roslyn\csc.exe
+C:\Project\Azure\StorageAPI\azureblobupload-master\azureblobupload-master\azurefileupload\bin\roslyn\csc.exe.config
+C:\Project\Azure\StorageAPI\azureblobupload-master\azureblobupload-master\azurefileupload\bin\roslyn\csc.rsp
+C:\Project\Azure\StorageAPI\azureblobupload-master\azureblobupload-master\azurefileupload\bin\roslyn\csi.exe
+C:\Project\Azure\StorageAPI\azureblobupload-master\azureblobupload-master\azurefileupload\bin\roslyn\csi.exe.config
+C:\Project\Azure\StorageAPI\azureblobupload-master\azureblobupload-master\azurefileupload\bin\roslyn\csi.rsp
+C:\Project\Azure\StorageAPI\azureblobupload-master\azureblobupload-master\azurefileupload\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Project\Azure\StorageAPI\azureblobupload-master\azureblobupload-master\azurefileupload\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Project\Azure\StorageAPI\azureblobupload-master\azureblobupload-master\azurefileupload\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Project\Azure\StorageAPI\azureblobupload-master\azureblobupload-master\azurefileupload\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Project\Azure\StorageAPI\azureblobupload-master\azureblobupload-master\azurefileupload\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Project\Azure\StorageAPI\azureblobupload-master\azureblobupload-master\azurefileupload\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Project\Azure\StorageAPI\azureblobupload-master\azureblobupload-master\azurefileupload\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Project\Azure\StorageAPI\azureblobupload-master\azureblobupload-master\azurefileupload\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Project\Azure\StorageAPI\azureblobupload-master\azureblobupload-master\azurefileupload\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Project\Azure\StorageAPI\azureblobupload-master\azureblobupload-master\azurefileupload\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Project\Azure\StorageAPI\azureblobupload-master\azureblobupload-master\azurefileupload\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Project\Azure\StorageAPI\azureblobupload-master\azureblobupload-master\azurefileupload\bin\roslyn\System.AppContext.dll
+C:\Project\Azure\StorageAPI\azureblobupload-master\azureblobupload-master\azurefileupload\bin\roslyn\System.Collections.Immutable.dll
+C:\Project\Azure\StorageAPI\azureblobupload-master\azureblobupload-master\azurefileupload\bin\roslyn\System.Console.dll
+C:\Project\Azure\StorageAPI\azureblobupload-master\azureblobupload-master\azurefileupload\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Project\Azure\StorageAPI\azureblobupload-master\azureblobupload-master\azurefileupload\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Project\Azure\StorageAPI\azureblobupload-master\azureblobupload-master\azurefileupload\bin\roslyn\System.IO.Compression.dll
+C:\Project\Azure\StorageAPI\azureblobupload-master\azureblobupload-master\azurefileupload\bin\roslyn\System.IO.FileSystem.dll
+C:\Project\Azure\StorageAPI\azureblobupload-master\azureblobupload-master\azurefileupload\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Project\Azure\StorageAPI\azureblobupload-master\azureblobupload-master\azurefileupload\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Project\Azure\StorageAPI\azureblobupload-master\azureblobupload-master\azurefileupload\bin\roslyn\System.IO.Pipes.dll
+C:\Project\Azure\StorageAPI\azureblobupload-master\azureblobupload-master\azurefileupload\bin\roslyn\System.Reflection.Metadata.dll
+C:\Project\Azure\StorageAPI\azureblobupload-master\azureblobupload-master\azurefileupload\bin\roslyn\System.Security.AccessControl.dll
+C:\Project\Azure\StorageAPI\azureblobupload-master\azureblobupload-master\azurefileupload\bin\roslyn\System.Security.Claims.dll
+C:\Project\Azure\StorageAPI\azureblobupload-master\azureblobupload-master\azurefileupload\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Project\Azure\StorageAPI\azureblobupload-master\azureblobupload-master\azurefileupload\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Project\Azure\StorageAPI\azureblobupload-master\azureblobupload-master\azurefileupload\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Project\Azure\StorageAPI\azureblobupload-master\azureblobupload-master\azurefileupload\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Project\Azure\StorageAPI\azureblobupload-master\azureblobupload-master\azurefileupload\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Project\Azure\StorageAPI\azureblobupload-master\azureblobupload-master\azurefileupload\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Project\Azure\StorageAPI\azureblobupload-master\azureblobupload-master\azurefileupload\bin\roslyn\System.ValueTuple.dll
+C:\Project\Azure\StorageAPI\azureblobupload-master\azureblobupload-master\azurefileupload\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Project\Azure\StorageAPI\azureblobupload-master\azureblobupload-master\azurefileupload\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Project\Azure\StorageAPI\azureblobupload-master\azureblobupload-master\azurefileupload\bin\roslyn\System.Xml.XPath.dll
+C:\Project\Azure\StorageAPI\azureblobupload-master\azureblobupload-master\azurefileupload\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Project\Azure\StorageAPI\azureblobupload-master\azureblobupload-master\azurefileupload\bin\roslyn\vbc.exe
+C:\Project\Azure\StorageAPI\azureblobupload-master\azureblobupload-master\azurefileupload\bin\roslyn\vbc.exe.config
+C:\Project\Azure\StorageAPI\azureblobupload-master\azureblobupload-master\azurefileupload\bin\roslyn\vbc.rsp
+C:\Project\Azure\StorageAPI\azureblobupload-master\azureblobupload-master\azurefileupload\bin\roslyn\VBCSCompiler.exe
+C:\Project\Azure\StorageAPI\azureblobupload-master\azureblobupload-master\azurefileupload\bin\roslyn\VBCSCompiler.exe.config
+C:\Project\Azure\StorageAPI\azureblobupload-master\azureblobupload-master\azurefileupload\bin\Antlr3.Runtime.dll
+C:\Project\Azure\StorageAPI\azureblobupload-master\azureblobupload-master\azurefileupload\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Project\Azure\StorageAPI\azureblobupload-master\azureblobupload-master\azurefileupload\bin\Microsoft.AI.DependencyCollector.dll
+C:\Project\Azure\StorageAPI\azureblobupload-master\azureblobupload-master\azurefileupload\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Project\Azure\StorageAPI\azureblobupload-master\azureblobupload-master\azurefileupload\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Project\Azure\StorageAPI\azureblobupload-master\azureblobupload-master\azurefileupload\bin\Microsoft.AI.Web.dll
+C:\Project\Azure\StorageAPI\azureblobupload-master\azureblobupload-master\azurefileupload\bin\Microsoft.AI.WindowsServer.dll
+C:\Project\Azure\StorageAPI\azureblobupload-master\azureblobupload-master\azurefileupload\bin\Microsoft.ApplicationInsights.dll
+C:\Project\Azure\StorageAPI\azureblobupload-master\azureblobupload-master\azurefileupload\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Project\Azure\StorageAPI\azureblobupload-master\azureblobupload-master\azurefileupload\bin\Microsoft.Azure.KeyVault.Core.dll
+C:\Project\Azure\StorageAPI\azureblobupload-master\azureblobupload-master\azurefileupload\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Project\Azure\StorageAPI\azureblobupload-master\azureblobupload-master\azurefileupload\bin\Microsoft.Web.Infrastructure.dll
+C:\Project\Azure\StorageAPI\azureblobupload-master\azureblobupload-master\azurefileupload\bin\Microsoft.WindowsAzure.Storage.dll
+C:\Project\Azure\StorageAPI\azureblobupload-master\azureblobupload-master\azurefileupload\bin\Newtonsoft.Json.dll
+C:\Project\Azure\StorageAPI\azureblobupload-master\azureblobupload-master\azurefileupload\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Project\Azure\StorageAPI\azureblobupload-master\azureblobupload-master\azurefileupload\bin\System.Net.Http.Formatting.dll
+C:\Project\Azure\StorageAPI\azureblobupload-master\azureblobupload-master\azurefileupload\bin\System.Web.Helpers.dll
+C:\Project\Azure\StorageAPI\azureblobupload-master\azureblobupload-master\azurefileupload\bin\System.Web.Http.dll
+C:\Project\Azure\StorageAPI\azureblobupload-master\azureblobupload-master\azurefileupload\bin\System.Web.Http.WebHost.dll
+C:\Project\Azure\StorageAPI\azureblobupload-master\azureblobupload-master\azurefileupload\bin\System.Web.Mvc.dll
+C:\Project\Azure\StorageAPI\azureblobupload-master\azureblobupload-master\azurefileupload\bin\System.Web.Optimization.dll
+C:\Project\Azure\StorageAPI\azureblobupload-master\azureblobupload-master\azurefileupload\bin\System.Web.Razor.dll
+C:\Project\Azure\StorageAPI\azureblobupload-master\azureblobupload-master\azurefileupload\bin\System.Web.WebPages.Deployment.dll
+C:\Project\Azure\StorageAPI\azureblobupload-master\azureblobupload-master\azurefileupload\bin\System.Web.WebPages.dll
+C:\Project\Azure\StorageAPI\azureblobupload-master\azureblobupload-master\azurefileupload\bin\System.Web.WebPages.Razor.dll
+C:\Project\Azure\StorageAPI\azureblobupload-master\azureblobupload-master\azurefileupload\bin\WebGrease.dll
+C:\Project\Azure\StorageAPI\azureblobupload-master\azureblobupload-master\azurefileupload\bin\Microsoft.Azure.KeyVault.Core.xml
+C:\Project\Azure\StorageAPI\azureblobupload-master\azureblobupload-master\azurefileupload\bin\Microsoft.WindowsAzure.Storage.pdb
+C:\Project\Azure\StorageAPI\azureblobupload-master\azureblobupload-master\azurefileupload\bin\Microsoft.WindowsAzure.Storage.xml
+C:\Project\Azure\StorageAPI\azureblobupload-master\azureblobupload-master\azurefileupload\bin\Newtonsoft.Json.xml
+C:\Project\Azure\StorageAPI\azureblobupload-master\azureblobupload-master\azurefileupload\bin\System.Net.Http.Formatting.xml
+C:\Project\Azure\StorageAPI\azureblobupload-master\azureblobupload-master\azurefileupload\bin\System.Web.Helpers.xml
+C:\Project\Azure\StorageAPI\azureblobupload-master\azureblobupload-master\azurefileupload\bin\System.Web.Http.xml
+C:\Project\Azure\StorageAPI\azureblobupload-master\azureblobupload-master\azurefileupload\bin\System.Web.Http.WebHost.xml
+C:\Project\Azure\StorageAPI\azureblobupload-master\azureblobupload-master\azurefileupload\bin\System.Web.Mvc.xml
+C:\Project\Azure\StorageAPI\azureblobupload-master\azureblobupload-master\azurefileupload\bin\System.Web.Optimization.xml
+C:\Project\Azure\StorageAPI\azureblobupload-master\azureblobupload-master\azurefileupload\bin\System.Web.Razor.xml
+C:\Project\Azure\StorageAPI\azureblobupload-master\azureblobupload-master\azurefileupload\bin\System.Web.WebPages.xml
+C:\Project\Azure\StorageAPI\azureblobupload-master\azureblobupload-master\azurefileupload\bin\System.Web.WebPages.Deployment.xml
+C:\Project\Azure\StorageAPI\azureblobupload-master\azureblobupload-master\azurefileupload\bin\System.Web.WebPages.Razor.xml
+C:\Project\Azure\StorageAPI\azureblobupload-master\azureblobupload-master\azurefileupload\bin\Antlr3.Runtime.pdb
+C:\Project\Azure\StorageAPI\azureblobupload-master\azureblobupload-master\azurefileupload\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Project\Azure\StorageAPI\azureblobupload-master\azureblobupload-master\azurefileupload\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Project\Azure\StorageAPI\azureblobupload-master\azureblobupload-master\azurefileupload\bin\Microsoft.AI.DependencyCollector.xml
+C:\Project\Azure\StorageAPI\azureblobupload-master\azureblobupload-master\azurefileupload\bin\Microsoft.AI.WindowsServer.xml
+C:\Project\Azure\StorageAPI\azureblobupload-master\azureblobupload-master\azurefileupload\bin\Microsoft.AI.Web.xml
+C:\Project\Azure\StorageAPI\azureblobupload-master\azureblobupload-master\azurefileupload\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Project\Azure\StorageAPI\azureblobupload-master\azureblobupload-master\azurefileupload\obj\Debug\azurefileupload.csprojAssemblyReference.cache
+C:\Project\Azure\StorageAPI\azureblobupload-master\azureblobupload-master\azurefileupload\obj\Debug\azurefileupload.csproj.CoreCompileInputs.cache
+C:\Project\Azure\StorageAPI\azureblobupload-master\azureblobupload-master\azurefileupload\obj\Debug\azurefileupload.csproj.CopyComplete
+C:\Project\Azure\StorageAPI\azureblobupload-master\azureblobupload-master\azurefileupload\obj\Debug\azurefileupload.dll
+C:\Project\Azure\StorageAPI\azureblobupload-master\azureblobupload-master\azurefileupload\obj\Debug\azurefileupload.pdb
+D:\Azure Projects\azureblobupload-master\azureblobupload-master\azurefileupload\bin\ApplicationInsights.config
+D:\Azure Projects\azureblobupload-master\azureblobupload-master\azurefileupload\bin\azurefileupload.dll.config
+D:\Azure Projects\azureblobupload-master\azureblobupload-master\azurefileupload\bin\azurefileupload.dll
+D:\Azure Projects\azureblobupload-master\azureblobupload-master\azurefileupload\bin\azurefileupload.pdb
+D:\Azure Projects\azureblobupload-master\azureblobupload-master\azurefileupload\bin\roslyn\csc.exe
+D:\Azure Projects\azureblobupload-master\azureblobupload-master\azurefileupload\bin\roslyn\csc.exe.config
+D:\Azure Projects\azureblobupload-master\azureblobupload-master\azurefileupload\bin\roslyn\csc.rsp
+D:\Azure Projects\azureblobupload-master\azureblobupload-master\azurefileupload\bin\roslyn\csi.exe
+D:\Azure Projects\azureblobupload-master\azureblobupload-master\azurefileupload\bin\roslyn\csi.exe.config
+D:\Azure Projects\azureblobupload-master\azureblobupload-master\azurefileupload\bin\roslyn\csi.rsp
+D:\Azure Projects\azureblobupload-master\azureblobupload-master\azurefileupload\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Azure Projects\azureblobupload-master\azureblobupload-master\azurefileupload\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Azure Projects\azureblobupload-master\azureblobupload-master\azurefileupload\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Azure Projects\azureblobupload-master\azureblobupload-master\azurefileupload\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Azure Projects\azureblobupload-master\azureblobupload-master\azurefileupload\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Azure Projects\azureblobupload-master\azureblobupload-master\azurefileupload\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Azure Projects\azureblobupload-master\azureblobupload-master\azurefileupload\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Azure Projects\azureblobupload-master\azureblobupload-master\azurefileupload\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Azure Projects\azureblobupload-master\azureblobupload-master\azurefileupload\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Azure Projects\azureblobupload-master\azureblobupload-master\azurefileupload\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Azure Projects\azureblobupload-master\azureblobupload-master\azurefileupload\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Azure Projects\azureblobupload-master\azureblobupload-master\azurefileupload\bin\roslyn\System.AppContext.dll
+D:\Azure Projects\azureblobupload-master\azureblobupload-master\azurefileupload\bin\roslyn\System.Collections.Immutable.dll
+D:\Azure Projects\azureblobupload-master\azureblobupload-master\azurefileupload\bin\roslyn\System.Console.dll
+D:\Azure Projects\azureblobupload-master\azureblobupload-master\azurefileupload\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Azure Projects\azureblobupload-master\azureblobupload-master\azurefileupload\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Azure Projects\azureblobupload-master\azureblobupload-master\azurefileupload\bin\roslyn\System.IO.Compression.dll
+D:\Azure Projects\azureblobupload-master\azureblobupload-master\azurefileupload\bin\roslyn\System.IO.FileSystem.dll
+D:\Azure Projects\azureblobupload-master\azureblobupload-master\azurefileupload\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Azure Projects\azureblobupload-master\azureblobupload-master\azurefileupload\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Azure Projects\azureblobupload-master\azureblobupload-master\azurefileupload\bin\roslyn\System.IO.Pipes.dll
+D:\Azure Projects\azureblobupload-master\azureblobupload-master\azurefileupload\bin\roslyn\System.Reflection.Metadata.dll
+D:\Azure Projects\azureblobupload-master\azureblobupload-master\azurefileupload\bin\roslyn\System.Security.AccessControl.dll
+D:\Azure Projects\azureblobupload-master\azureblobupload-master\azurefileupload\bin\roslyn\System.Security.Claims.dll
+D:\Azure Projects\azureblobupload-master\azureblobupload-master\azurefileupload\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Azure Projects\azureblobupload-master\azureblobupload-master\azurefileupload\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Azure Projects\azureblobupload-master\azureblobupload-master\azurefileupload\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Azure Projects\azureblobupload-master\azureblobupload-master\azurefileupload\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Azure Projects\azureblobupload-master\azureblobupload-master\azurefileupload\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Azure Projects\azureblobupload-master\azureblobupload-master\azurefileupload\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Azure Projects\azureblobupload-master\azureblobupload-master\azurefileupload\bin\roslyn\System.ValueTuple.dll
+D:\Azure Projects\azureblobupload-master\azureblobupload-master\azurefileupload\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Azure Projects\azureblobupload-master\azureblobupload-master\azurefileupload\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Azure Projects\azureblobupload-master\azureblobupload-master\azurefileupload\bin\roslyn\System.Xml.XPath.dll
+D:\Azure Projects\azureblobupload-master\azureblobupload-master\azurefileupload\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Azure Projects\azureblobupload-master\azureblobupload-master\azurefileupload\bin\roslyn\vbc.exe
+D:\Azure Projects\azureblobupload-master\azureblobupload-master\azurefileupload\bin\roslyn\vbc.exe.config
+D:\Azure Projects\azureblobupload-master\azureblobupload-master\azurefileupload\bin\roslyn\vbc.rsp
+D:\Azure Projects\azureblobupload-master\azureblobupload-master\azurefileupload\bin\roslyn\VBCSCompiler.exe
+D:\Azure Projects\azureblobupload-master\azureblobupload-master\azurefileupload\bin\roslyn\VBCSCompiler.exe.config
+D:\Azure Projects\azureblobupload-master\azureblobupload-master\azurefileupload\bin\Antlr3.Runtime.dll
+D:\Azure Projects\azureblobupload-master\azureblobupload-master\azurefileupload\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Azure Projects\azureblobupload-master\azureblobupload-master\azurefileupload\bin\Microsoft.AI.DependencyCollector.dll
+D:\Azure Projects\azureblobupload-master\azureblobupload-master\azurefileupload\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Azure Projects\azureblobupload-master\azureblobupload-master\azurefileupload\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Azure Projects\azureblobupload-master\azureblobupload-master\azurefileupload\bin\Microsoft.AI.Web.dll
+D:\Azure Projects\azureblobupload-master\azureblobupload-master\azurefileupload\bin\Microsoft.AI.WindowsServer.dll
+D:\Azure Projects\azureblobupload-master\azureblobupload-master\azurefileupload\bin\Microsoft.ApplicationInsights.dll
+D:\Azure Projects\azureblobupload-master\azureblobupload-master\azurefileupload\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\Azure Projects\azureblobupload-master\azureblobupload-master\azurefileupload\bin\Microsoft.Azure.KeyVault.Core.dll
+D:\Azure Projects\azureblobupload-master\azureblobupload-master\azurefileupload\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Azure Projects\azureblobupload-master\azureblobupload-master\azurefileupload\bin\Microsoft.Web.Infrastructure.dll
+D:\Azure Projects\azureblobupload-master\azureblobupload-master\azurefileupload\bin\Microsoft.WindowsAzure.Storage.dll
+D:\Azure Projects\azureblobupload-master\azureblobupload-master\azurefileupload\bin\Newtonsoft.Json.dll
+D:\Azure Projects\azureblobupload-master\azureblobupload-master\azurefileupload\bin\System.Diagnostics.DiagnosticSource.dll
+D:\Azure Projects\azureblobupload-master\azureblobupload-master\azurefileupload\bin\System.Net.Http.Formatting.dll
+D:\Azure Projects\azureblobupload-master\azureblobupload-master\azurefileupload\bin\System.Web.Helpers.dll
+D:\Azure Projects\azureblobupload-master\azureblobupload-master\azurefileupload\bin\System.Web.Http.dll
+D:\Azure Projects\azureblobupload-master\azureblobupload-master\azurefileupload\bin\System.Web.Http.WebHost.dll
+D:\Azure Projects\azureblobupload-master\azureblobupload-master\azurefileupload\bin\System.Web.Mvc.dll
+D:\Azure Projects\azureblobupload-master\azureblobupload-master\azurefileupload\bin\System.Web.Optimization.dll
+D:\Azure Projects\azureblobupload-master\azureblobupload-master\azurefileupload\bin\System.Web.Razor.dll
+D:\Azure Projects\azureblobupload-master\azureblobupload-master\azurefileupload\bin\System.Web.WebPages.Deployment.dll
+D:\Azure Projects\azureblobupload-master\azureblobupload-master\azurefileupload\bin\System.Web.WebPages.dll
+D:\Azure Projects\azureblobupload-master\azureblobupload-master\azurefileupload\bin\System.Web.WebPages.Razor.dll
+D:\Azure Projects\azureblobupload-master\azureblobupload-master\azurefileupload\bin\WebGrease.dll
+D:\Azure Projects\azureblobupload-master\azureblobupload-master\azurefileupload\bin\Microsoft.Azure.KeyVault.Core.xml
+D:\Azure Projects\azureblobupload-master\azureblobupload-master\azurefileupload\bin\Microsoft.WindowsAzure.Storage.pdb
+D:\Azure Projects\azureblobupload-master\azureblobupload-master\azurefileupload\bin\Microsoft.WindowsAzure.Storage.xml
+D:\Azure Projects\azureblobupload-master\azureblobupload-master\azurefileupload\bin\Newtonsoft.Json.xml
+D:\Azure Projects\azureblobupload-master\azureblobupload-master\azurefileupload\bin\System.Net.Http.Formatting.xml
+D:\Azure Projects\azureblobupload-master\azureblobupload-master\azurefileupload\bin\System.Web.Helpers.xml
+D:\Azure Projects\azureblobupload-master\azureblobupload-master\azurefileupload\bin\System.Web.Http.xml
+D:\Azure Projects\azureblobupload-master\azureblobupload-master\azurefileupload\bin\System.Web.Http.WebHost.xml
+D:\Azure Projects\azureblobupload-master\azureblobupload-master\azurefileupload\bin\System.Web.Mvc.xml
+D:\Azure Projects\azureblobupload-master\azureblobupload-master\azurefileupload\bin\System.Web.Optimization.xml
+D:\Azure Projects\azureblobupload-master\azureblobupload-master\azurefileupload\bin\System.Web.Razor.xml
+D:\Azure Projects\azureblobupload-master\azureblobupload-master\azurefileupload\bin\System.Web.WebPages.xml
+D:\Azure Projects\azureblobupload-master\azureblobupload-master\azurefileupload\bin\System.Web.WebPages.Deployment.xml
+D:\Azure Projects\azureblobupload-master\azureblobupload-master\azurefileupload\bin\System.Web.WebPages.Razor.xml
+D:\Azure Projects\azureblobupload-master\azureblobupload-master\azurefileupload\bin\Antlr3.Runtime.pdb
+D:\Azure Projects\azureblobupload-master\azureblobupload-master\azurefileupload\bin\System.Diagnostics.DiagnosticSource.xml
+D:\Azure Projects\azureblobupload-master\azureblobupload-master\azurefileupload\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\Azure Projects\azureblobupload-master\azureblobupload-master\azurefileupload\bin\Microsoft.AI.DependencyCollector.xml
+D:\Azure Projects\azureblobupload-master\azureblobupload-master\azurefileupload\bin\Microsoft.AI.WindowsServer.xml
+D:\Azure Projects\azureblobupload-master\azureblobupload-master\azurefileupload\bin\Microsoft.AI.Web.xml
+D:\Azure Projects\azureblobupload-master\azureblobupload-master\azurefileupload\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Azure Projects\azureblobupload-master\azureblobupload-master\azurefileupload\obj\Debug\azurefileupload.csprojAssemblyReference.cache
+D:\Azure Projects\azureblobupload-master\azureblobupload-master\azurefileupload\obj\Debug\azurefileupload.csproj.CoreCompileInputs.cache
+D:\Azure Projects\azureblobupload-master\azureblobupload-master\azurefileupload\obj\Debug\azurefileupload.csproj.CopyComplete
+D:\Azure Projects\azureblobupload-master\azureblobupload-master\azurefileupload\obj\Debug\azurefileupload.dll
+D:\Azure Projects\azureblobupload-master\azureblobupload-master\azurefileupload\obj\Debug\azurefileupload.pdb
